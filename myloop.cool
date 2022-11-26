@@ -1,0 +1,9 @@
+int main(void)
+{
+    int times = 2;
+
+    while(times) {
+        times = times - 1;
+    }
+    return 0;
+}
