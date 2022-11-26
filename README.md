@@ -3,7 +3,7 @@
 Kristijan Korunoski (22966841) <br/>
 Luke Kirkby (22885101)
 
-## Stack-Based-Machine
+## Description
 
 The goal of this project is to emulate the execution of programs from a small, C-like programming language, on a stack-based machine with a write-back cache, and to report some metrics of the program's execution. <br/><br/>
 
